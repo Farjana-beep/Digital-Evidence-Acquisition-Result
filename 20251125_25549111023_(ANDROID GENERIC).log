@@ -1,0 +1,31 @@
+<Device Information>
+  [Region] = Phones
+  [Vendor] = Vivo
+  [Model] = (ANDROID GENERIC)
+  [Plug-in] = C:\Program Files (x86)\FINALDATA\FINALMobile Forensics 4\plug-in\AndroidBackupRev2.dll
+<Initialize>
+<Open communication>
+Running FINALExtractor...
+"Finished!
+<Detected>
+  [Vendor] Vivo
+  [Model] V29A23SN45B9812
+  [Version] Android 14
+  [SerialNo] V29TEST12345SN
+</Detected>
+Checking for 3rd party apps...
+Please enter password(1954) and 
+select [Back up my data] on the device
+
+Download file count = 0
+<Close communication>
+Cleanup...
+ < Download Success > 
+ [Total Elapsed Seconds] : 183 
+ [Elapsed Seconds From Downloading] : 0 
+ [Count of Files or Folders] : 1330 
+ [Bytes of Downloaded Data] : 53,471 bytes 
+ [Bytes of Expected Data] : 53,471 bytes
+
+
+
